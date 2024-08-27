@@ -1,0 +1,20 @@
+{
+  "name": "atelier-1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "engines": {
+    "node": "16.14.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Hugo Jette",
+  "license": "ISC",
+  "dependencies": {
+    "atelier-1": "file:",
+    "query-string": "^9.1.0"
+  },
+  "description": ""
+}
